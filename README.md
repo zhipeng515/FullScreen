@@ -22,3 +22,7 @@
   
   // 全屏切换
   wtlWindow_.SwitchFullScreen();
+```
+
+* 依赖
+[CommonFunction](https://github.com/zhipeng515/CommonFunction)
